@@ -29,9 +29,6 @@ The following STRETCH features are implemented:
 - [x] Re-brand the app by modifying the UI
 - [x] Modify the profile image by uploading a new image drawable
 
-The following EXTRA features are implemented:
-
-- [ ] List anything else that you added to improve the app!
 
 ## Video Demo
 
