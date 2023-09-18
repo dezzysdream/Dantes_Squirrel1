@@ -47,7 +47,9 @@ GIF created with **ScreenToGif **
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+In this unit, I learned about the styles and themes files within a project and how to fine tune their valeus and colors to my liking. 
+I particularly enjoyed playing around with the different profile photos and ended up choosing a pretty cool character. 
+I got to incorporate two of my favorite colors: red and purple. Creating this app was tons of fun. 
 
 ## License
 
