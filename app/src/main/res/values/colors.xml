@@ -6,7 +6,7 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="dark">@color/cardview_dark_background</color>
 
-    <color name="card_foreground">@color/white</color>
+    <color name="card_foreground">@color/cardview_dark_background</color>
 </resources>
